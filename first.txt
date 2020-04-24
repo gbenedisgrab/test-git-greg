@@ -2,3 +2,4 @@ This is a new line
 Okay this is a file that I am changing using git. 
 I can't keep track of the changes I made anymore
 Okay this is line 4
+line 5 is added
