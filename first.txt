@@ -1,2 +1,3 @@
 This is a new line
 Okay this is a file that I am changing using git. 
+This is the last line
